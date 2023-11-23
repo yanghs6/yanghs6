@@ -28,13 +28,14 @@
   <div>
     <h4> Main </h4>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/></a>
   </div>
   <div>
     <h4> Used </h4>
-    <img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=Html5&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=black"/></a>
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
   </div>
 </div>  
 
